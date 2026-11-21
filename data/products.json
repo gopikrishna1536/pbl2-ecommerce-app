@@ -1,0 +1,47 @@
+[
+  {
+    "id": "prod_1",
+    "name": "Wireless Noise-Canceling Headphones",
+    "category": "Electronics",
+    "price": 199.99,
+    "stock": 45,
+    "rating": 4.8,
+    "description": "High-fidelity audio with active noise cancellation and 30-hour battery life."
+  },
+  {
+    "id": "prod_2",
+    "name": "Mechanical Gaming Keyboard",
+    "category": "Electronics",
+    "price": 129.50,
+    "stock": 30,
+    "rating": 4.7,
+    "description": "RGB backlit mechanical keyboard with tactile switches and aluminum chassis."
+  },
+  {
+    "id": "prod_3",
+    "name": "Ergonomic Office Chair",
+    "category": "Furniture",
+    "price": 289.00,
+    "stock": 15,
+    "rating": 4.9,
+    "description": "Breathable mesh chair with adjustable lumbar support and 4D armrests."
+  },
+  {
+    "id": "prod_4",
+    "name": "Ultra-Wide Gaming Monitor 34-inch",
+    "category": "Electronics",
+    "price": 499.00,
+    "stock": 10,
+    "rating": 4.6,
+    "description": "144Hz curved display with 1ms response time and HDR10 support."
+  },
+  {
+    "id": "prod_5",
+    "name": "Smart Water Bottle",
+    "category": "Fitness",
+    "price": 39.99,
+    "stock": 60,
+    "rating": 4.3,
+    "description": "Insulated stainless steel bottle with LED hydration reminder cap."
+  }
+]

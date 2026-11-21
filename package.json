@@ -1,0 +1,14 @@
+{
+  "name": "pbl2-ecommerce-app",
+  "version": "1.0.0",
+  "description": "Full-Stack E-Commerce REST API & Shopping Platform",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test tests/*.test.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
